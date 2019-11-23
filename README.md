@@ -1,1 +1,1 @@
-# Smart_Gloves_Firmware
+C++ Based Firmware for Arduino and NodeMCU
